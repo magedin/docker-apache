@@ -27,7 +27,8 @@ RUN apt-get update && apt-get install -y \
   openssl \
   vim \
   lsof \
-  watch
+  watch \
+  lynx
 
 
 RUN ( \
